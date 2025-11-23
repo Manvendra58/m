@@ -1,77 +1,64 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Manvendra+Mishra;Frontend+Developer;Data+Analyst;CS+Student+%40+GLA+University" alt="Typing SVG" />
-
-  <p align="center">
-    <b>Passionate about crafting beautiful, functional web experiences and transforming data into actionable insights.</b>
-  </p>
-
-  <p align="center">
-    <a href="https://portfolio-green-five-34.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/manvendra-mishra-244727346/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:manvendramishra55@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,8b5cf6&height=220&section=header&text=Manvendra%20Mishra&fontSize=80&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%26%20Data%20Analyst&descAlign=50&descAlignY=60&descSize=25&animation=fadeIn" width="100%" />
 </div>
-
----
-
-### 🧐 About Me
-
-Hello! I'm a developer with a **dual passion**: creating beautiful, functional websites and diving deep into data.
-
-* **💻 Web Development:** I love turning ideas into tangible, interactive experiences using **React**, **Flutter**, and **Modern JS**.
-* **📊 Data Analysis:** My analytical mind finds joy in patterns. I leverage **Python** and **SQL** to drive informed decisions.
-* **🎓 Education:** Currently pursuing a **Diploma in Computer Science** at **GLA University**.
-
----
-
-### 🛠️ Technical Skills
 
 <div align="center">
 
-| **Frontend & Mobile** | **Backend & Data** | **Languages** |
+  <a href="https://portfolio-green-five-34.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/manvendra-mishra-244727346/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manvendramishra55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">👨‍💻 About Me</h3>
+      <p>
+        Hi! I'm a <b>CS Diploma Student</b> at GLA University and a former intern at <b>Muster Consultants</b>. I bridge the gap between design and data.
+      </p>
+      <p>
+        🔭 <b>Working on:</b> Advanced React Patterns<br>
+        🌱 <b>Learning:</b> AI Agents & Backend Architecture<br>
+        ⚡ <b>Fun fact:</b> I love analyzing Chess games as much as playing them.
+      </p>
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind,python,firebase,git,vscode,mysql&perline=5" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 GitHub Stats</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Manvendra58&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra58&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">🏆 Featured Projects</h3>
+
+| 🛍️ **KrishnaMart** | 🚌 **Hanuman Travels** | ♟️ **Flutter Chess** |
 |:---:|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| Full-stack E-commerce | Bus Reservation System | Interactive Online Game |
+| React • Firebase | HTML • CSS • JS | Flutter • Dart |
+| [View Live](https://portfolio-green-five-34.vercel.app/) | [View Live](https://krishna-blond.vercel.app) | [View Live](https://chess-vert.vercel.app/) |
 
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🛍️ KrishnaMart** | A full-featured **E-commerce Platform** created to demonstrate scalable architecture and design approach. | `React` `Firebase` |
-| **🚌 Hanuman Travels** | A comprehensive **Bus Reservation System** with interactive seat selection and payment processing. | `HTML` `CSS` `JS` |
-| **♟️ Flutter Chess** | A clean and interactive online **Chess Game** offering a smooth gameplay experience. | `Flutter` `Dart` |
-| **❌⭕ Tic-Tac-Toe** | A classic game built with Flutter to demonstrate game logic and state management. | `Flutter` `Dart` |
-
----
-
-### 💼 Experience
-
-#### **Intern at Muster Consultants Pvt. Ltd.**
-*(June 2025 - Aug 2025)*
-* Developed and managed the company's official website ([musterconsultants.in](https://musterconsultants.in)).
-* Handled company data processing and analysis using Google Sheets and Python tools.
-
----
-
-### 🏆 Certifications & Achievements
-
-> **🥇 Winner: Deviathon 2025 (Placement Prep Assistant)**
-> Built a placement prep web app for DSA practice and mock interviews. Delivered a functional MVP with real-time tracking within the hackathon deadline.
-
-<details>
-<
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manvendra58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
----
-
-<div align="center">
-  <p><b>📍 Based in Etah, Uttar Pradesh, India</b></p>
-  <p><i>Open to freelance work and job opportunities.</i></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvendra58&theme=react&hide_border=true&area=true" width="98%" />
+  
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Let's+build+something+amazing!;Coding+is+poetry+for+machines.;Data+driven+decisions." />
 </div>
