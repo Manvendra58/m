@@ -1,64 +1,42 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,8b5cf6&height=220&section=header&text=Manvendra%20Mishra&fontSize=80&fontAlign=50&fontAlignY=35&desc=Frontend%20Developer%20%26%20Data%20Analyst&descAlign=50&descAlignY=60&descSize=25&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <h1>Hi, I'm Manvendra Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
   <a href="https://portfolio-green-five-34.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Visit%20Now&color=0ea5e9&style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://www.linkedin.com/in/manvendra-mishra-244727346/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manvendramishra55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
 </div>
 
-<br />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👨‍💻 About Me</h3>
-      <p>
-        Hi! I'm a <b>CS Diploma Student</b> at GLA University and a former intern at <b>Muster Consultants</b>. I bridge the gap between design and data.
-      </p>
-      <p>
-        🔭 <b>Working on:</b> Advanced React Patterns<br>
-        🌱 <b>Learning:</b> AI Agents & Backend Architecture<br>
-        ⚡ <b>Fun fact:</b> I love analyzing Chess games as much as playing them.
-      </p>
-      <h3 align="center">🛠️ Tech Stack</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,tailwind,python,firebase,git,vscode,mysql&perline=5" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 GitHub Stats</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Manvendra58&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" width="100%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvendra58&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<h3 align="center">🏆 Featured Projects</h3>
-
-| 🛍️ **KrishnaMart** | 🚌 **Hanuman Travels** | ♟️ **Flutter Chess** |
-|:---:|:---:|:---:|
-| Full-stack E-commerce | Bus Reservation System | Interactive Online Game |
-| React • Firebase | HTML • CSS • JS | Flutter • Dart |
-| [View Live](https://portfolio-green-five-34.vercel.app/) | [View Live](https://krishna-blond.vercel.app) | [View Live](https://chess-vert.vercel.app/) |
-
-<br />
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvendra58&theme=react&hide_border=true&area=true" width="98%" />
-  
-  <br/><br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&width=435&lines=Let's+build+something+amazing!;Coding+is+poetry+for+machines.;Data+driven+decisions." />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manvendra58&theme=radical" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr style="border: none;">
+      <td width="60%" align="center" style="border: none;">
+         <img src="https://github-readme-stats.vercel.app/api?username=Manvendra58&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+         <br/>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvendra58&theme=radical&hide_border=true" width="100%" />
+      </td>
+      <td width="40%" align="center" style="border: none;">
+        <h3>🛠️ Arsenal</h3>
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" /><br/>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /><br/>
+        <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+        <br/><br/>
+        <h3>🥇 Achievements</h3>
+        <img src="https://img.shields.io/badge/Winner-Deviathon_2025-FF0050?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Intern-Muster_Consultants-blue?style=flat-square&logo=linkedin" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
 </div>
