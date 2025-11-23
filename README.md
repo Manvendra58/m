@@ -1,19 +1,3 @@
-Here is a visually attractive, professional, and code-ready **`README.md`** file.
-
-I have enhanced your draft by:
-
-1.  **Adding dynamic elements:** A "Typing" banner effect.
-2.  **Using Badges:** Replaced text lists with visual icons for your tech stack.
-3.  **Integrating your real projects:** I filled in the "Featured Projects" section with the specific projects you mentioned earlier (KrishnaMart, Hanuman Travels, etc.).
-4.  **Adding Stats:** Included GitHub activity graphs to show your coding frequency.
-
------
-
-### **Copy the code below into your GitHub Profile Repository**
-
-*(Create a repo named `Manvendra58` if you haven't already, and create a file named `README.md` inside it)*
-
-```markdown
 <div align="center">
  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Manvendra+Mishra+%F0%9F%91%8B;Aspiring+Frontend+Developer;Ex-Intern+%40+Muster+Consultants;CS+Student+%40+GLA+University" alt="Typing SVG" />
@@ -83,4 +67,3 @@ I am open to **Internships**, **Junior Frontend Roles**, and open-source collabo
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%">
 </div>
-```
